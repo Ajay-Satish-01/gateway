@@ -82,6 +82,7 @@ export const SAGEMAKER: string = 'sagemaker';
 export const NEBIUS: string = 'nebius';
 export const RECRAFTAI: string = 'recraft-ai';
 export const MILVUS: string = 'milvus';
+export const SARVAM: string = 'sarvam';
 export const REPLICATE: string = 'replicate';
 
 export const VALID_PROVIDERS = [
@@ -139,6 +140,7 @@ export const VALID_PROVIDERS = [
   MILVUS,
   REPLICATE,
   POWERED_BY,
+  SARVAM,
 ];
 
 export const CONTENT_TYPES = {
